@@ -18,11 +18,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Developmental Neurobiology
-- Molecular Psychiatry
-- Neural-Circuit Basis of Emotion
-- Fear Learning and Memory
-- Stress
+
 
 # Education to show in About widget
 education:
@@ -45,8 +41,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dmgerhard
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=x7-zHi0AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
@@ -69,10 +65,12 @@ email: ""
 highlight_name: true
 ---
 
-I am a Postdoctoral Research Associate of Neuroscience in Psychiatry in the lab of Dr. Francis Lee.
+I am a Postdoctoral Research Associate of Neuroscience in Psychiatry at Weill Cornell Medicine.
 
-My research examines the cellular and molecular mechanisms underlying stress, anxiety, and depression with a focus on adolescent development. As part of this work I examine the enduring effects of pre-adolescent stress on the maturation of neural circuits important for sociability and emotion regulation. I also study fear regulation across adolescence and adulthood.
+My research examines the cellular and molecular mechanisms underlying stress, anxiety, and depression with a focus on adolescent development. As part of this work, I examine the enduring effects of juvenile stress on the maturation of neural circuits important for sociability and emotion regulation.
 
-I received my PhD in 2017 from Yale University where I worked in the lab of Dr. Ronald Duman. My thesis research examined the mechanisms of action of the rapid-acting antidepressant ketamine.
+I received my PhD in 2017 from Yale University. My thesis research examined mechanisms of action of the rapid-acting antidepressant ketamine.
 
-In addition to academic research, I am a freelance science writer.
+I am also a freelance science writer. I have written about pharmacological and biotechnological innovations across therapeutic areas including oncology, neuroscience, immunology, and infectious disease.
+
+You can find my recent articles in the Science Communication section below.  
