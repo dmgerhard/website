@@ -6,19 +6,19 @@ title: Danielle Gerhard
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Associate of Neuroscience in Psychiatry
+role: Assistant Editor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Weill Cornell Medicine
-  url: https://leelab.weill.cornell.edu/
+- name: The Scientist
+  url: https://www.the-scientist.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 # Interests to show in About widget
 interests:
-
+  - Postdoctoral Associate in Neuroscience, Weill Cornell Medicine (2018--2023)
 
 # Education to show in About widget
 education:
@@ -37,19 +37,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:daniellegerhard@gmail.com'
+  link: 'mailto:dgerhard@the-scientist.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dmgerhard
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=x7-zHi0AAAAJ&hl=en&oi=ao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/dmgerhard
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/danielle-gerhard-58b1a25a/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dmgerhard
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -65,12 +66,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a Postdoctoral Research Associate of Neuroscience in Psychiatry at Weill Cornell Medicine.
+I joined *The Scientist* as an Assistant Editor in 2023, where I write about discoveries in the life sciences.
 
-My research examines the cellular and molecular mechanisms underlying stress, anxiety, and depression with a focus on adolescent development. As part of this work, I examine the enduring effects of juvenile stress on the maturation of neural circuits important for sociability and emotion regulation.
-
-I received my PhD in 2017 from Yale University. My thesis research examined mechanisms of action of the rapid-acting antidepressant ketamine.
-
-I am also a freelance science writer. I have written about pharmacological and biotechnological innovations across therapeutic areas including oncology, neuroscience, immunology, and infectious disease.
+Before joining the magazine, I was a a Postdoctoral Research Associate of Neuroscience in Psychiatry at Weill Cornell Medicine. I was also a freelance science writer and I contributed stories to *Drug Discovery News* and *The Scientist*.
 
 You can find my recent articles in the Science Communication section below.  
